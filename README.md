@@ -1,5 +1,5 @@
 # Sector_Rotation_Momentum_Startegy
-Market's DJ: Dropping the beat at the right time and sector;
+Market's DJ: Dropping the beat at the right time and sector;<br>
 Sector Rotation Strategy: Dynamic allocation strategy for Indian stock market sectors using momentum, trend strength, volume, and risk management;
 Features: Calculates metrics (momentum, trend strength, volatility, relative strength), generates signals (BUY, SELL, HOLD), and manages risk through configurable limits;
 Dependencies: pandas, numpy, ta-lib, json, logging, dataclasses (install via pip install pandas numpy ta-lib);
